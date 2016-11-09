@@ -1,5 +1,5 @@
 # Comment
-*.txt
+text.txt
 *.zip
 *.gz
 log/*.log
